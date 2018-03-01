@@ -1,2 +1,3 @@
 content of file.txt
 line 2 of file.txt
+contents of this file are a mystery
