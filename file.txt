@@ -1,2 +1,2 @@
-contents of file.txt
+content of file.txt
 line 2 of file.txt
